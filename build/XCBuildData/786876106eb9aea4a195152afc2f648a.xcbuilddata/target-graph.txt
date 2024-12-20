@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'Pods-ToDoListOfYandex_SMDTests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-ToDoListOfYandex_SMD' in project 'Pods'
+Target 'Pods-ToDoListOfYandex_SMD-ToDoListOfYandex_SMDUITests' in project 'Pods'
+➜ Explicit dependency on target 'SwiftLint' in project 'Pods'
+Target 'Pods-ToDoListOfYandex_SMD' in project 'Pods'
+➜ Explicit dependency on target 'SwiftLint' in project 'Pods'
+Target 'SwiftLint' in project 'Pods' (no dependencies)

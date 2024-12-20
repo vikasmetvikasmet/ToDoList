@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ToDoListOfYandex_SMD_ToDoListOfYandex_SMDUITests : NSObject
+@end
+@implementation PodsDummy_Pods_ToDoListOfYandex_SMD_ToDoListOfYandex_SMDUITests
+@end

@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_ToDoListOfYandex_SMD_ToDoListOfYandex_SMDUITestsVersionString[];
+ extern const double Pods_ToDoListOfYandex_SMD_ToDoListOfYandex_SMDUITestsVersionNumber;
+
+ const unsigned char Pods_ToDoListOfYandex_SMD_ToDoListOfYandex_SMDUITestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_ToDoListOfYandex_SMD_ToDoListOfYandex_SMDUITests  PROJECT:Pods-1" "\n";
+ const double Pods_ToDoListOfYandex_SMD_ToDoListOfYandex_SMDUITestsVersionNumber __attribute__ ((used)) = (double)1.;
